@@ -6,7 +6,23 @@
 
 ### Description
 
-Project to show the steps of design and structure of your site to fulfill client's contract.
+Client's requirements:
+* Landing page
+* Amenities page
+* Contact page
+* Subscription page
+
+Amenities:
+* Coffee counter
+* Communal work space
+* Private offices
+* High speed internet
+* Printing & fax services
+* Yoga
+* Food
+* craft activities
+
+
 
 ### Images
 
@@ -22,12 +38,36 @@ Screenshots of your Sketch wireframes should go here. Make sure to include all v
 
 ### User Stories
 
-* We'll  
-* Learn
-* About
-* These
-* Monday
-* Night
+Target users
+1. Identifying target users: Employees, Future Employees, Managers,  Customers, and Vendors
+2. Identify to the brand/company
+
+
+### Brainstorming
+Colors or Themes:
+* Mid Century Modern
+* Colors:
+  1. D94C2A, 0A152E, 8CD3CD, F0D04B, EEECE1
+  2. C78C18, 94773E, 44FAD4, FA6A06, 18C771
+* Industrial, white, airy, plants, large prints, neon lights, wordsplay, light wood
+
+Keywords:
+* Luxurious
+* Cool
+* High-end
+* 100% inclusive
+* safe
+* comfortable
+* productive
+* creative
+* funky
+* artists
+* day-traders
+* craft people
+* writers
+* counselor
+* business people
+
 
 ### Technologies and Resources
 
