@@ -31,7 +31,7 @@ Amenities:
 ![](img/paper-sketch/landing.jpg)
 ![](img/paper-sketch/landing-functions.jpg)
 ![](img/paper-sketch/pages.jpg)
-![](img/paper-sketch/Screen Shot 2019-02-22 at 10.08.39 AM.png)
+![](img/paper-sketch/Screen-shot.png)
 
 
 #### Mobile Version
@@ -51,7 +51,7 @@ Colors or Themes:
 * Colors:
   1. D94C2A, 0A152E, 8CD3CD, F0D04B, EEECE1, EDB823, 4F94A4,
   2. C78C18, 94773E, 44FAD4, FA6A06, 18C771
-  3.
+
 * Industrial, white, airy, plants, large prints, neon lights, wordsplay, light wood
 
 Keywords:
