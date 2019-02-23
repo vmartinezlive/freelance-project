@@ -41,7 +41,7 @@ Amenities:
 
 #### Mobile Version
 
-![mobile user interface](link-to-screenshot-here)
+![](img/paper-sketch/sketchwork.jpg)
 
 ### User Stories
 
