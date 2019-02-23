@@ -26,11 +26,18 @@ Amenities:
 
 ### Images
 
-Screenshots of your Sketch wireframes should go here. Make sure to include all versions (if you have different mobile, tablet, desktop, etc.) designs. Use Dropbox or another free image hosting service to host your images.
+![](img/paper-sketch/notes.jpg)
+![](img/paper-sketch/first-draws.jpg)
+![](img/paper-sketch/landing.jpg)
+![](img/paper-sketch/landing-functions.jpg)
+![](img/paper-sketch/pages.jpg)
+
 
 #### Desktop Version
 
-![desktop user interface](link-to-screenshot-here)
+
+
+
 
 #### Mobile Version
 
@@ -47,8 +54,9 @@ Target users
 Colors or Themes:
 * Mid Century Modern
 * Colors:
-  1. D94C2A, 0A152E, 8CD3CD, F0D04B, EEECE1
+  1. D94C2A, 0A152E, 8CD3CD, F0D04B, EEECE1, EDB823, 4F94A4,
   2. C78C18, 94773E, 44FAD4, FA6A06, 18C771
+  3.
 * Industrial, white, airy, plants, large prints, neon lights, wordsplay, light wood
 
 Keywords:
