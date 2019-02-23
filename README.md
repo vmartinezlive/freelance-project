@@ -31,17 +31,12 @@ Amenities:
 ![](img/paper-sketch/landing.jpg)
 ![](img/paper-sketch/landing-functions.jpg)
 ![](img/paper-sketch/pages.jpg)
-
-
-#### Desktop Version
-
-
-
+![](img/paper-sketch/Screen Shot 2019-02-22 at 10.08.39 AM.png)
 
 
 #### Mobile Version
 
-![](img/paper-sketch/sketchwork.jpg)
+![](img/to-use/complete.png)
 
 ### User Stories
 
@@ -89,20 +84,21 @@ Keywords:
 
 ### Responsiveness
 
-Describe how the site is responsive, and what different 'versions' this project includes (does it have a mobile version? tablet version? )
+Landing page is created with shapes and images which is clickable to the next page.
 
 ### Setup Instructions
 
-Describe how someone can clone and launch this project.
+* download github link to your computer https://github.com/vmartinezlive/freelance-project.git
+* open Sketch on mac computer
+* open file freelance file
+* click on preview
 
 ### Roadmap
-
-Is there work you plan on continuing doing on this project? Features you'd like to add?
-
-* Consider
-* Listing
-* Them
-* Here
+Additional future work:
+* Add link for submission to contact user.
+* Add reservations request for meeting rooms
+* Add calendar events
+* Add rules and regulation page after user completes subscription page.
 
 ### License
 
