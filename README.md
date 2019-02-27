@@ -40,15 +40,70 @@ Amenities:
 
 ### User Stories
 
-Target users
-1. Identifying target users: Employees, Future Employees, Managers,  Customers, and Vendors
-2. Identify to the brand/company
+### Persona
+
+1. Freelance/Self Employed (James)
+  _I need a dedicated space to work on my current projects._
+
+    Needs:
+    * Meet new people to collaborate with
+    * Affordable office space where I can have clients come
+    * Looking for a place that makes me feel welcome
+
+    Pain points:
+    * Cost per month
+    * Privacy
+    * Technologies: wi-fi, faxing,
+    * Place to receive my business mail and packages
+    * Will people judge me
+
+    How we can serve:
+    * Provide competitive cost
+    * Promotes community awareness within the space
+    * Provides information on private offices
+    * Provides information on latest technologies and business center
+    * Site and brand promotes 100% inclusive
+
+  2. Business Owner (Chris)
+    _I own a accounting agency firm and sometimes I need more help with projects_
+
+    Needs:
+    * Need to find resources to talented freelance individuals
+    * I would like to keep up with the latest business trends
+
+    Pain points:
+    * Is there a meet up that I can attend
+    * Will this site help me find freelance individuals
+
+    How we can serve:
+    * Site promotes social evenings that is open for everyone
+    * Site invites passionate and talents of all aspects to join a 100% inclusiveness space to work individually or collaborative
+
+  3. Grad Student (Martha)
+    _I'm an undergrad student in creative writing_
+
+    Needs:
+    * I need a space to work on my projects
+    * I'm for long period of times in the day and night.
+    * I need to be inspired to create characters to my story
+
+    Pain points:
+    * Will this place be loud?
+    * Why type of people uses this type of facility?
+    * Will I feel uptight because of the shared space
+
+    How we can serve:
+    * Site will showcase the energy of relax, creative and cool brand
+    * Site will provide information about coffee shop and social gatherings
+    * Site promotes the option to collaborate or work in the privacy of your own area
+    * Site will showcase 100% inclusiveness and everyone is welcome
 
 
 ### Brainstorming
 Colors or Themes:
 * Mid Century Modern
 * Colors:
+![](img/paper-sketch/Screen-shot.png)
   1. D94C2A, 0A152E, 8CD3CD, F0D04B, EEECE1, EDB823, 4F94A4,
   2. C78C18, 94773E, 44FAD4, FA6A06, 18C771
 
@@ -72,15 +127,19 @@ Keywords:
 * business people
 
 
-### Technologies and Resources
+### Technologies  
 
-* List
-* What
-* Outside
-* Technologies
-* You've
-* Used
-* Here
+* Sketch
+* Atom
+
+### Resources
+
+* Adobe Kuler
+* [a link](https://society6.com)
+* [a link](https://unsplash.com)
+* google Images
+* google fonts
+
 
 ### Responsiveness
 
@@ -94,6 +153,7 @@ Landing page is created with shapes and images which is clickable to the next pa
 * click on preview
 
 ### Roadmap
+
 Additional future work:
 * Add link for submission to contact user.
 * Add reservations request for meeting rooms
