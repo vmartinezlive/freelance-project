@@ -1,0 +1,44 @@
+nav{
+  width:100%;
+  background-color: $dark-blue;
+  a {
+    color:$sea-foam;
+    font-size:1.5rem;
+    &:hover{
+      color:$coral;
+    }
+}
+
+.icons{
+  display:none;
+  @include mediaQuery(650px){
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  img {
+    width: 50px;
+    @include mediaQuery(325px){
+      width: 35px;
+      }
+    }
+  div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+}
+
+
+.large-nav{
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
+    @include mediaQuery(650px){
+      display:none;
+    }
+  }
+}
