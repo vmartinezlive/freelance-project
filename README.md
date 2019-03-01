@@ -31,8 +31,6 @@ Amenities:
 ![](img/paper-sketch/landing.jpg)
 ![](img/paper-sketch/landing-functions.jpg)
 ![](img/paper-sketch/pages.jpg)
-![](img/paper-sketch/Screen-shot.png)
-
 
 #### Mobile Version
 
@@ -65,38 +63,38 @@ Amenities:
     * Site and brand promotes 100% inclusive
 
   2. Business Owner (Chris)
-    _I own a accounting agency firm and sometimes I need more help with projects_
+    _I own a accounting agency firm and sometimes need more help with projects_
 
     Needs:
-    * Need to find resources to talented freelance individuals
+    * Need to find resources to talented Freelance individuals
     * I would like to keep up with the latest business trends
 
     Pain points:
     * Is there a meet-up available?
-    * Will this site help me find freelance individuals?
+    * Will this site help find freelance individuals?  
 
-    How can we serve:
+    How we can serve:
     * Site promotes social evenings open to the public
     * Site invites passionate and talented individuals from all background, race, and gender
 
-
-  3. Undergrad Student (Martha)
-    _I'm an undergrad student in creative writing_
+    3. Undergrad Student (Martha)
+    _I'm an undergrad student working on thesis in creative writing_
 
     Needs:
     * I need a space to work on my projects
-    * I work long period of times both day and night
-    * I need to be inspired to create characters to my story
+    * I work long period of times both day and at night
+    * I need to be inspired for my writing
 
     Pain points:
-    * Will this place be loud?  I need to have fully concentration on my work
-    * Is this place or for professional?
+    * Will this place be loud?  I need to have full concentration on my working
+    * Is this place only for professional?
     * I don't know what to expect with shared space
 
     How can we serve:
-    * Site will showcase the energy, cool, hip with high quality offices and amenities
-    * Site will provides information about in house coffee shop, business center and social calendar
+    * Site will showcase the energy, cool, hip space with high quality of offices and amenities
+    * Site will provide information about in-house coffee shop, business center and social calendar
     * Site will showcase 100% inclusiveness and everyone is welcome
+
 
 ### Brainstorming
 Colors or Themes:
@@ -133,7 +131,7 @@ Keywords:
 
 ### Resources
 
-* Adobe Kuler
+* [adobe color cc](https://color.adobe.com)
 * [society6](https://society6.com)
 * [unsplash](https://unsplash.com)
 * [mid century images](https://www.google.com/search?q=google+images+mid+century)
