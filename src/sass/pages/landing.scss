@@ -5,12 +5,41 @@
     width: 80%;
     position: relative;
     left: 10%;
-    // top: 30%;
-    // right: 10%;
   }
 }
 
+#scroll {
+  text-align: center;
+  #one {
+    font-size: 20px;
+    font-weight: bold;
+    color: $dark-blue;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  #two {
+    font-size: 19px;
+    font-weight:normal;
+    color: $coral;
+    margin-top: -15px;
+    margin-bottom: 0;
+    opacity: 0.5;
+  }
+  #three {
+    font-size: 18px;
+    font-weight:normal;
+    color: $teal;
+    margin-top: -15px;
+    margin-bottom: 0;
+    opacity: 0.3;
+  }
+
+}
+
+
+
 footer {
+  margin-top: 10%;
   position: relative;
   bottom: 0;
   width: 100%;
