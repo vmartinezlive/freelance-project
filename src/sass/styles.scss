@@ -1,11 +1,11 @@
 @import 'reset';
 @import 'variable';
-@import 'mixin';
+// @import 'mixin';
 @import 'typefaces';
 @import 'navigation';
 @import "pages/landing";
 @import "animate.min.css";
 
 body {
-  background-color: $sea-foam;
+  background-color: $beige;
 }

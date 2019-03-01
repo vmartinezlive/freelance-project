@@ -1,72 +1,9 @@
-
-
-#nav-logo{
-  @include mediaQuery(1000px){
-    display:none;
-  }
-}
-
-#landPage {
-  width: 100%;
-}
-
-.splash-img{
-  position:relative;
-}
-
-#splash-logo{
-  display: none;
-  @include mediaQuery(1000px) {
-    display: block;
-    position:absolute;
-    left:50%;
-    top:50%;
-    transform:translate(-50%,-50%);
-    width:50%;
-    z-index:1;
-  }
-}
-
-
-.dark-screen:after {
-  content:'';
-  display:block;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background-color: rgba(0, 0, 0, 0.5);
-}
-
-.features {
-  display: grid;
-  justify-content:center;
-  grid-template-columns: 23% 23% 23% 23% ;
-  grid-column-gap:1.5%;
-  margin-top: 15px;
-  @include mediaQuery(1000px){
-    grid-template-columns: 45% 45%;
-    grid-row-gap: 1.5%;
-  }
-  @include mediaQuery(500px){
-    grid-template-columns: 90%;
-    grid-row-gap: 1.5%;
-  };
-  div {
-    display: flex;
-    overflow: hidden;
-    flex-direction: column;
+.body-photo {
     img {
-      align-items: center;
-      height: 250px;
-      object-fit:cover;
-    }
-    p {
-      color: $sea-foam;
-      background-color: $dark-blue;
-      text-align: center;
-      padding: 15px;
-    }
+    width: 80%;
+    position: absolute;
+    left: 10%;
+    top: 10%;
+    right: 10%;
   }
 }
