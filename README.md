@@ -156,7 +156,7 @@ To view Sketch wok:
 * click on preview
 
 To view coed:
-* clone [freelance-project] (https://github.com/vmartinezlive/freelance-project.git)
+* clone [freelance-project](https://github.com/vmartinezlive/freelance-project.git)
 * Make sure you have NodeJs and NPM installed (required to view project)
 * cd into the root directory and install dependancies by entering: npm install
 * after installation enter npm run start on your terminal
