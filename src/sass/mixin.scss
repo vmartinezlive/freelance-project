@@ -1,5 +1,5 @@
-// @mixin mediaQuery($max){
-//   @media screen and (max-width:$max){
-//     @content;
-//   }
-// }
+@mixin mediaQuery($max){
+  @media screen and (max-width:$max){
+    @content;
+  }
+}
