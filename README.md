@@ -93,7 +93,7 @@ Amenities:
     How we can serve:
       * Site will showcase the energy, cool, hip space with high quality of offices and amenities
       * Site will provide information about in-house coffee shop, business center and social calendar
-      * Site will showcase 100% inclusive and everyone is welcome 
+      * Site will showcase 100% inclusive and everyone is welcome
 
 ### Brainstorming
 Colors or Themes:
@@ -127,6 +127,9 @@ Keywords:
 
 * Sketch
 * Atom
+* Html
+* css
+* sass  
 
 ### Resources
 
@@ -135,6 +138,7 @@ Keywords:
 * [unsplash](https://unsplash.com)
 * [mid century images](https://www.google.com/search?q=google+images+mid+century)
 * [goole fonts](https://fonts.google.com/)
+* [anmiate.css](https://daneden.github.io/animate.css/)
 
 
 ### Responsiveness
@@ -143,10 +147,17 @@ Landing page is created with shapes and images which is clickable to the next pa
 
 ### Setup Instructions
 
+To view Sketch wok:
 * download github link to your computer [freelance-project](https://github.com/vmartinezlive/freelance-project.git)
 * open Sketch on mac computer
 * open file freelance file
 * click on preview
+
+To view coed:
+* clone [freelance-project] (https://github.com/vmartinezlive/freelance-project.git)
+* Make sure you have NodeJs and NPM installed (required to view project)
+* cd into the root directory and install dependancies by entering: npm install
+* after installation enter npm run start on your terminal
 
 ### Roadmap
 
