@@ -63,13 +63,13 @@ module.exports = {
     }),
 
     new HtmlWebpackPlugin({
-   filename: 'contact.html',
-   template: './src/contact.html'
-   minify: {
-     removeComments: true,
-     collapseWhitespace: true
-   }
- }),
+       filename: 'contact.html',
+       template: './src/contact.html',
+       minify: {
+         removeComments: true,
+         collapseWhitespace: true
+       }
+     }),
 
     new UglifyJsPlugin(),
 
