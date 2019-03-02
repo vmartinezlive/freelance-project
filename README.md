@@ -143,7 +143,9 @@ Keywords:
 
 ### Responsiveness
 
-Landing page is created with shapes and images which is clickable to the next page.
+* Landing page is created with shapes and images which is clickable to the next page.
+* small animation was added at the bottom of landing page to let users knows to scroll down
+
 
 ### Setup Instructions
 
