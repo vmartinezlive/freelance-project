@@ -14,6 +14,9 @@
     input {
       height: 50px;
       width: 600px;
+      @include mediaQuery(400px){
+        width: 90%;
+      }
     }
   }
 
@@ -27,6 +30,9 @@
     .note-box {
       height: 200px;
       width: 600px;
+      @include mediaQuery(400px){
+        width: 90%;
+      }
     }
   }
 
@@ -38,6 +44,9 @@
   float:left;
   width: 40%;
   height: 60%;
+  @include mediaQuery(400px){
+    display: none;
+  }
 }
 
 .buttons {
@@ -47,16 +56,29 @@
   margin-right: 15%;
   margin-top: 10%;
   width: 20%;
-
+  margin-bottom: 10px;
   #one {
     height: 30px;
-    background-color: white;
+    margin-top: 20px;
   }
 
   #two {
-    margin-top: 20%;
+    margin-top: 20px;
     height: 30px;
-    background-color: white;
   }
+  @include mediaQuery(400px){
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 75%;
+
+    #one {
+      margin-left: 40px;
+    }
+    #two {
+      margin-right: 50px;
+    }
+  }
+
 
 }
