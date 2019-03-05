@@ -134,12 +134,12 @@ Amenities:
 
   ### Resources
 
-  * ![adobe color cc](https://color.adobe.com)
-  * ![society6](https://society6.com)
-  * ![unsplash](https://unsplash.com)
-  * ![mid century images](https://www.google.com/search?q=google+images+mid+century)
-  * ![goole fonts](https://fonts.google.com/)
-  * ![anmiate.css](https://daneden.github.io/animate.css/)
+  * [adobe color cc](https://color.adobe.com)
+  * [society6](https://society6.com)
+  * [unsplash](https://unsplash.com)
+  * [mid century images](https://www.google.com/search?q=google+images+mid+century)
+  * [goole fonts](https://fonts.google.com/)
+  * [anmiate.css](https://daneden.github.io/animate.css/)
 
 
   ### Responsiveness
