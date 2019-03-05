@@ -35,6 +35,7 @@ Amenities:
 #### Mobile Version
 
 ![](img/to-use/complete.png)
+![](src/assets/images/3views.jpg)
 
 ### User Stories
 
@@ -133,12 +134,12 @@ Amenities:
 
   ### Resources
 
-  * [adobe color cc](https://color.adobe.com)
-  * [society6](https://society6.com)
-  * [unsplash](https://unsplash.com)
-  * [mid century images](https://www.google.com/search?q=google+images+mid+century)
-  * [goole fonts](https://fonts.google.com/)
-  * [anmiate.css](https://daneden.github.io/animate.css/)
+  * ![adobe color cc](https://color.adobe.com)
+  * ![society6](https://society6.com)
+  * ![unsplash](https://unsplash.com)
+  * ![mid century images](https://www.google.com/search?q=google+images+mid+century)
+  * ![goole fonts](https://fonts.google.com/)
+  * ![anmiate.css](https://daneden.github.io/animate.css/)
 
 
   ### Responsiveness
@@ -155,7 +156,7 @@ Amenities:
   * open file freelance file
   * click on preview
 
-  To view coed:
+  To view code:
   * clone [freelance-project](https://github.com/vmartinezlive/freelance-project.git)
   * Make sure you have NodeJs and NPM installed (required to view project)
   * cd into the root directory and install dependancies by entering: npm install
