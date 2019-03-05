@@ -32,9 +32,8 @@ Amenities:
 ![](img/paper-sketch/landing-functions.jpg)
 ![](img/paper-sketch/pages.jpg)
 
-#### Mobile Version
+#### Work Image
 
-![](img/to-use/complete.png)
 ![](src/assets/images/3views.jpg)
 
 ### User Stories
