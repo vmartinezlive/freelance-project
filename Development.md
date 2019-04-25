@@ -47,6 +47,7 @@
   * Html
   * css
   * sass  
+  * Webpack
 
 ### Resources
 
